@@ -17,5 +17,5 @@ Create a local http server for png file uploading
 4, if successful, the webform will show the uploaded png
 
 ## The design of the project
-![architecture](architecure.png)
+![architecture](architecture.png)
 
